@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.table1 {
+    font-family: sans-serif;
+    border-collapse: separate;
+    text-align: center;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+  }
+
